@@ -1,5 +1,15 @@
 # 风聆Studio 登录助手公开说明页
 
+## 风聆Studio 官网
+
+风聆Studio 是面向 Suno 创作者的电脑端音乐上传与歌词工具，提供 Mac 版和 Windows 版。
+
+- 官网：<https://gnmusic.cn/>
+- 下载：<https://gnmusic.cn/download/>
+- 安装与使用指南：<https://gnmusic.cn/guide/>
+- 帮助中心：<https://gnmusic.cn/help/>
+- 常见问题：<https://gnmusic.cn/faq/>
+
 这是登录助手的公开静态介绍、帮助与隐私政策镜像，用于 Chrome Web Store 的公开资料链接。
 
 - `index.html`：扩展介绍、连接步骤、权限解释与使用帮助。
